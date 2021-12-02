@@ -13,6 +13,6 @@ In this problem you will be designing code that should be able to take in a file
 
 - For my practical assesment my lexical analyizer is based on Java rules.
 - The output is as follows: 
-  - the for loop tokens 
-  - the type of statement (For-each, while.. etc)
-  - the actual loop from randomstuff.txt   
+  - Each token in the statement  
+  - The type of statement (EX: For-each, return, while.. etc)
+  - the actual loop from randomstuff.txt  (EX: return iamthebest ;) 
